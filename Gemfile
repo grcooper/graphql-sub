@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'rails-ujs', '~> 0.1.0'
+
 gem 'graphql', '~> 1.6', '>= 1.6.6'
 gem 'graphql-batch', '~> 0.3.3'
 gem 'graphql-preload', '~> 1.0', '>= 1.0.3'
